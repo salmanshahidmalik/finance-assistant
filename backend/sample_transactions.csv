@@ -1,0 +1,21 @@
+date,amount,merchant,category
+2024-01-05,45.50,Walmart,Groceries
+2024-01-07,12.99,Netflix,Subscriptions
+2024-01-09,8.50,Starbucks,Coffee
+2024-01-12,120.00,Amazon,Shopping
+2024-01-15,45.50,Walmart,Groceries
+2024-01-18,9.99,Spotify,Subscriptions
+2024-01-20,35.00,Shell,Transport
+2024-02-05,48.00,Walmart,Groceries
+2024-02-07,12.99,Netflix,Subscriptions
+2024-02-10,15.00,Uber,Transport
+2024-02-14,200.00,Apple Store,Shopping
+2024-02-18,9.99,Spotify,Subscriptions
+2024-02-22,55.00,Restaurant,Dining
+2024-03-01,46.00,Walmart,Groceries
+2024-03-07,12.99,Netflix,Subscriptions
+2024-03-11,22.00,Starbucks,Coffee
+2024-03-15,80.00,Amazon,Shopping
+2024-03-18,9.99,Spotify,Subscriptions
+2024-03-25,150.00,Electric Bill,Utilities
+2024-03-28,45.00,Restaurant,Dining
